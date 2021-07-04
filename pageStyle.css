@@ -1,0 +1,54 @@
+.box {
+    display: flex;
+  }
+
+#list {
+  justify-content: flex-start;
+}
+
+.box picture {
+  flex-wrap: wrap;
+}
+  
+  h1, 
+  h2, 
+  h3 {
+    font-family: "Helvetica", sans-serif;
+  }
+  
+  p {
+    font-family: "arial", monospace;
+  }
+  
+  
+  h1 {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(78, 125, 55);
+  }
+  
+  .item h2 {
+    font-size: 32px;
+    color: white;
+  }
+  
+  .price {
+    font-weight: bold;
+    color: blue;
+  }
+  
+  #brush {
+    background-color: mediumspringgreen;
+  }
+  
+  #frame {
+    background-color: lightcoral;
+  }
+  
+  #paint {
+    background-color: skyblue;
+  }
+  
+  #pic {
+    width: auto;
+  }
