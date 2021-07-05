@@ -1,13 +1,14 @@
-.box {
-    display: flex;
-  }
-
-#list {
-  justify-content: flex-start;
+#list ul li {
+  display: inline-flex;
+  margin: 5px;
 }
 
 .box picture {
-  flex-wrap: wrap;
+  width: 200px;
+  height: 200px;
+  border: 1px solid #c3c3c3;
+  display:flex;
+  flex-direction: column;
 }
   
   h1, 
