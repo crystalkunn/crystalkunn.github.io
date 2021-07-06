@@ -30,8 +30,17 @@ nav ul {
       color: rgb(78, 125, 55);
     }
 
+    h2 {
+      font-size: 30px;
+    }
+
+    h3 {
+      font-size: 25px;
+    }
+
     p {
         font-family: "arial", monospace;
+        font-size: 18px;
       }
     
     
