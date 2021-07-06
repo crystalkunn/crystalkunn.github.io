@@ -2,6 +2,11 @@ html {
     border: 4mm ridge rgb(162, 100, 166)
 }
 
+footer {
+    position:relative;
+    bottom: 1.5%;
+}
+
 nav ul {
     display: flex;
     justify-content: space-between;

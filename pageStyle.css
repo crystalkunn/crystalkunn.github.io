@@ -1,3 +1,8 @@
+footer {
+  position:relative;
+  bottom: 1.5%;
+}
+
 nav ul {
   display: flex;
   justify-content: space-between;
@@ -7,15 +12,9 @@ nav ul {
 li {
   padding: 15px;
 }
-
-.box picture {
-  display:flex;
-  flex-direction: column;
-}
   
   h1, 
-  h2, 
-  h3 {
+  h2 {
     font-family: "Helvetica", sans-serif;
   }
   
@@ -30,24 +29,5 @@ li {
     color: rgb(78, 125, 55);
   }
   
-  .item h2 {
-    font-size: 32px;
-    color: white;
-  }
   
   
-  #brush {
-    background-color: mediumspringgreen;
-  }
-  
-  #frame {
-    background-color: lightcoral;
-  }
-  
-  #paint {
-    background-color: skyblue;
-  }
-  
-  #pic {
-    width: auto;
-  }
