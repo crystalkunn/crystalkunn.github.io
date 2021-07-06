@@ -1,0 +1,35 @@
+html {
+    border: 4mm ridge rgb(162, 100, 166)
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  li {
+    padding: 15px;
+  }
+  
+    
+    h1, 
+    h2  {
+      font-family: "Helvetica", sans-serif;
+    }
+    
+    
+    h1 {
+      text-align: center;
+      font-size: 60px;
+      color: rgb(78, 125, 55);
+    }
+
+    p {
+        font-family: "arial", monospace;
+      }
+    
+    
+    .main {
+      text-align: center;
+    }
