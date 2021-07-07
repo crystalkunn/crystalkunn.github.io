@@ -1,5 +1,8 @@
 html {
-    border: 4mm ridge rgb(162, 100, 166)
+    border: 4mm ridge rgb(162, 100, 166);
+    border-radius: 5mm;
+    border-style: dashed double none;
+    margin: 20px;
 }
 
 footer {
@@ -44,7 +47,12 @@ nav ul {
 
     p {
       font-family: "arial", monospace;
-      font-size: 23px;
+      font-size: 20px;
+      line-height: 1.6;
+      text-align: left;
+      padding-left: 140px;
+      padding-right: 140px;
     }
+
     
     

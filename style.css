@@ -9,13 +9,14 @@ footer {
 }
 
 h1, 
-h2, 
-h3 {
+h2 {
   font-family: "Helvetica", sans-serif;
 }
 
 p {
   font-family: "arial", monospace;
+  font-style: italic;
+  font-weight: 700;
 }
 
 
@@ -25,28 +26,7 @@ h1 {
   color: rgb(130, 128, 236);
 }
 
-.item h2 {
-  font-size: 32px;
-  color: white;
-}
-
-.price {
-  font-weight: bold;
-  color: blue;
-}
-
-#brush {
-  background-color: mediumspringgreen;
-}
-
-#frame {
-  background-color: lightcoral;
-}
-
-#paint {
-  background-color: skyblue;
-}
-
 #pic {
-  width: auto;
+
 }
+
