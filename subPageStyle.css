@@ -5,9 +5,38 @@ html {
     margin: 20px;
 }
 
+h1 {
+  font-family: "Helvetica", sans-serif;
+  font-size: 4rem;
+  color: rgb(78, 125, 55);
+  text-align: center;
+}
+
+h2 {
+  font-family: "Helvetica", sans-serif;
+  font-size: 2.25rem;
+  margin-top: 0;
+  padding-bottom: 2rem;
+}
+
+h3 {
+  font-family: "Helvetica", sans-serif;
+  font-size: 1.5rem;
+}
+
+p {
+  font-family: "arial", monospace;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  text-align: left;
+  padding-left: 8rem;
+  padding-right: 8rem;
+}
+
+
 footer {
     position:relative;
-    bottom: 1.5%;
+    border-bottom: 1.5%;
 }
 
 nav ul {
@@ -23,36 +52,4 @@ nav ul {
   .main {
     text-align: center;
   }
-    
-    h1, 
-    h2,
-    h3  {
-      font-family: "Helvetica", sans-serif;
-    }
-    
-    
-    h1 {
-      text-align: center;
-      font-size: 60px;
-      color: rgb(78, 125, 55);
-    }
 
-    h2 {
-      font-size: 36px;
-    }
-
-    h3 {
-      font-size: 28px;
-    }
-
-    p {
-      font-family: "arial", monospace;
-      font-size: 20px;
-      line-height: 1.6;
-      text-align: left;
-      padding-left: 140px;
-      padding-right: 140px;
-    }
-
-    
-    

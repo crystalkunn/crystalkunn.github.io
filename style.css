@@ -1,32 +1,34 @@
-footer {
-  position:relative;
-  bottom: 1.5%;
+
+h1 {
+  font-family: 'M PLUS Rounded 1c', "arial", sans-serif;
+  text-align: center;
+  font-size: 4rem;
+  color: rgb(130, 128, 236);
 }
 
-.box {
-  display: flex;
-  justify-content: space-between;
-}
-
-h1, 
 h2 {
   font-family: "Helvetica", sans-serif;
 }
 
+
 p {
   font-family: "arial", monospace;
   font-style: italic;
-  font-weight: 700;
 }
 
-
-h1 {
-  text-align: center;
-  font-size: 60px;
-  color: rgb(130, 128, 236);
+footer {
+  position:relative;
+  border-bottom: 1.5%;
 }
 
-#pic {
+  .box {
+    display: flex;
+    justify-content: space-between;
+  }
 
-}
+    html #pic {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
 

@@ -1,31 +1,26 @@
-footer {
-  position:relative;
-  bottom: 1.5%;
+h1 { 
+  text-align: center;
+  font-size: 60px;
+  color: rgb(78, 125, 55);
 }
 
-li {
-  display: inline-block;
-  width: auto;
-  height: 40px;
-  padding: 15px;
-  font-size: 18px;
+footer {
+  position:relative;
+  border-bottom: 1.5%;
 }
-  
-  h1, 
-  h2 {
-    font-family: "Helvetica", sans-serif;
+
+p {
+  font-family: "arial", monospace;
+}
+
+  li {
+    display: inline-block;
+    width: auto;
+    height: 40px;
+    padding: 15px;
+    font-size: 1.25rem;
   }
   
-  p {
-    font-family: "arial", monospace;
-  }
-  
-  
-  h1 {
-    text-align: center;
-    font-size: 60px;
-    color: rgb(78, 125, 55);
-  }
-  
-  
+
+
   
