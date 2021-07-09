@@ -26,6 +26,14 @@ footer {
     justify-content: space-between;
   }
 
+  .container {
+    margin-top: 5%;
+    margin-bottom:5%;
+    width: 75%;
+    border: 2px solid lightseagreen;
+    border-radius: 20px;
+  }
+
     html #pic {
       max-width: 100%;
       height: auto;
