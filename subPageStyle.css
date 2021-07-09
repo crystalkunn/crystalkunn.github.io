@@ -1,3 +1,12 @@
+@media only screen and (max-width: 480px) {
+  h3 {
+    font-size: 1.5rem;
+  }
+  p{
+    font-size: 1.25rem;
+  }
+}
+
 html {
     border: 4mm ridge rgb(162, 100, 166);
     border-radius: 5mm;
