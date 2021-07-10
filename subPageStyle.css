@@ -11,7 +11,7 @@ html {
     border: 4mm ridge rgb(162, 100, 166);
     border-radius: 5mm;
     border-style: dashed double none;
-    margin: 20px;
+    margin: 1.25rem;
 }
 
 h1 {
@@ -33,13 +33,13 @@ h3 {
   font-size: 1.5rem;
 }
 
-.main p {
+p {
   font-family: "arial", monospace;
   font-size: 1.25rem;
-  line-height: 1.6;
+  line-height: 1.8;
   text-align: left;
-  padding-left: 8rem;
-  padding-right: 8rem;
+  padding-left: 20rem;
+  padding-right: 20rem;
 }
 
 
@@ -55,7 +55,7 @@ nav ul {
   }
   
   li {
-    padding: 15px;
+    padding: 1rem;
   }
 
   .main {
