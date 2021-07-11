@@ -2,24 +2,12 @@ html or element selector {
   -webkit-text-size-adjust: 100%;
 }
 
-@media only screen and (max-width: 480px) {
-  html {
-    font-size: 18px;
-  }
-
-  h3 {
-    font-size: 1.5rem;
-  }
-  p{
-    font-size: 1.125rem;
-  }
-}
 
 html {
     border: 4mm ridge rgb(162, 100, 166);
     border-radius: 5mm;
     border-style: dashed double none;
-    margin: 1.25rem;
+    margin: 18px;
 }
 
 h1 {
