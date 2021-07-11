@@ -1,3 +1,8 @@
+html {
+  -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+}
+
 h1 { 
   font-family: "Helvetica", sans-serif;
   text-align: center;

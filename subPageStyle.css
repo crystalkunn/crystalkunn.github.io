@@ -1,6 +1,7 @@
 
 html {
     -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
     font-size: 18px;
     border: 4mm ridge rgb(162, 100, 166);
     border-radius: 5mm;
