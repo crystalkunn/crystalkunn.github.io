@@ -4,19 +4,19 @@
   }
 
   h1 {
-    font-size: 4rem;
+    font-size: 2rem;
   }
 
   h2 {
-    font-size: 2.25rem;
+    font-size: 1.75rem;
   }
 
   h3 {
-    font-size: 1.5rem;
+    font-size: 1.125rem;
   }
 
   p {
-    font-size: 1.25rem;
+    font-size: 1rem;
   }
 
 }
@@ -33,14 +33,14 @@ html {
 
 h1 {
   font-family: "Helvetica", sans-serif;
-  font-size: 4rem;
+  font-size: 2rem;
   color: rgb(78, 125, 55);
   text-align: center;
 }
 
 h2 {
   font-family: "Helvetica", sans-serif;
-  font-size: 2.25rem;
+  font-size: 1.75rem;
   text-align: center;
   margin-top: 0;
   padding-bottom: 2rem;
@@ -48,13 +48,13 @@ h2 {
 
 h3 {
   font-family: "Helvetica", sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   text-align: center;
 }
 
 p {
   font-family: "arial", monospace;
-  font-size: 1.25rem;
+  font-size: 1rem;
   line-height: 1.8;
   text-align: left;
   padding-left: 10rem;
