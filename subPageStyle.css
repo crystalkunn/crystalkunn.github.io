@@ -1,21 +1,6 @@
-html or element selector {
- text-size-adjust: 100%;
-}
-
-@media only screen and (max-width: 480px) {
-  html {
-    font-size: 18px;
-  }
-
-  h3 {
-    font-size: 1.5rem;
-  }
-  p{
-    font-size: 1.125rem;
-  }
-}
 
 html {
+    -webkit-text-size-adjust: 100%;
     font-size: 18px;
     border: 4mm ridge rgb(162, 100, 166);
     border-radius: 5mm;
