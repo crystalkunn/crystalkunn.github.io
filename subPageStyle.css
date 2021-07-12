@@ -1,6 +1,6 @@
 @media screen and (max-width: 480px) {
   html {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   h1 {
@@ -24,11 +24,11 @@
 html {
     -webkit-text-size-adjust: 100%;
     text-rendering: optimizeLegibility;
-    font-size: 18px;
+    font-size: 16px;
     border: 2mm ridge rgb(162, 100, 166);
     border-radius: 5mm;
     border-style: dashed double none;
-    margin: 1.25rem;
+    margin: 1rem;
 }
 
 h1 {
@@ -57,8 +57,8 @@ p {
   font-size: 1rem;
   line-height: 1.8;
   text-align: left;
-  padding-left: 5rem;
-  padding-right: 5rem;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
 }
 
 
@@ -68,13 +68,12 @@ footer {
 }
 
 nav ul {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-  }
+  display: flex;
+  justify-content: center;
+}
   
   li {
-    padding: 1rem;
+    padding: 1.125rem;
   }
 
 
