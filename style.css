@@ -2,18 +2,24 @@ html {
   -webkit-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   font-size: 16px;
+  background-color: black;
+}
+
+body {
+  background-image: linear-gradient(#06224d80, #e4aae480);
 }
 
 h1 {
   font-family: 'M PLUS Rounded 1c', "arial", sans-serif;
   text-align: center;
   font-size: 2rem;
-  color: rgb(130, 128, 236);
+  color: rgb(147, 145, 250);
 }
 
-h2 {
+h3 {
   font-family: "Helvetica", sans-serif;
   font-size: 1.75em;
+  color: hsl(339, 91%, 87%);
 }
 
 
@@ -21,11 +27,17 @@ p {
   font-family: "arial", monospace;
   font-style: italic;
   font-size: 1rem;
+  color: azure;
 }
 
 footer {
   position:relative;
   border-bottom: 1.5%;
+  color: azure;
+}
+
+a {
+  color: rgb(227, 247, 174);
 }
 
   .box {
@@ -37,7 +49,7 @@ footer {
     margin-top: 5%;
     margin-bottom:5%;
     width: 75%;
-    border: 2px solid lightseagreen;
+    border: 2px solid hsl(177, 72%, 63%);
     border-radius: 20px;
   }
 

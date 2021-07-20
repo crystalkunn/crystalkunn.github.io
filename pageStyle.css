@@ -2,22 +2,33 @@ html {
   -webkit-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   font-size: 16px;
+  background-color: black;
 }
 
 h1 { 
   font-family: "Helvetica", sans-serif;
   text-align: center;
   font-size: 2rem;
-  color: rgb(78, 125, 55);
+  color: #5ed9dd;
 }
 
 footer {
   position:relative;
   border-bottom: 1.5%;
+  color: azure;
 }
 
 p {
   font-family: "arial", monospace;
+  color: azure;
+}
+
+nav ul {
+  background-image: linear-gradient(#06224d80, #e4aae480);
+}
+
+a {
+  color: azure;
 }
 
   li {
