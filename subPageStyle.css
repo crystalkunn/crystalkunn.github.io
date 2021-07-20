@@ -22,20 +22,22 @@
 
 }
 
+
 html {
     -webkit-text-size-adjust: 100%;
     text-rendering: optimizeLegibility;
+    background-color: black;
     font-size: 16px;
-    border: 2mm ridge rgb(162, 100, 166);
+    border: 2mm ridge hsl(32, 86%, 52%);
     border-radius: 5mm;
-    border-style: dashed double none;
+    border-style: double none;
     margin: 1rem;
 }
 
 h1 {
   font-family: "Helvetica", sans-serif;
   font-size: 2rem;
-  color: rgb(78, 125, 55);
+  color: rgb(102, 231, 235);
   text-align: center;
 }
 
@@ -43,6 +45,7 @@ h2 {
   font-family: "Helvetica", sans-serif;
   font-size: 1.75rem;
   text-align: center;
+  color: azure;
   margin-top: 0;
   padding-bottom: 2rem;
 }
@@ -51,11 +54,13 @@ h3 {
   font-family: "Helvetica", sans-serif;
   font-size: 1.125rem;
   text-align: center;
+  color: azure;
 }
 
 p {
   font-family: "arial", monospace;
   font-size: 1rem;
+  color: azure;
   line-height: 1.8;
   text-align: left;
   padding-left: 5rem;
@@ -66,15 +71,18 @@ p {
 footer {
     position:relative;
     border-bottom: 1.5%;
+    color: azure;
 }
 
 nav ul {
   display: flex;
   justify-content: center;
+  list-style-type: none;
 }
   
   li {
-    padding: 1.125rem;
+    background-color: rgb(250, 210, 239);;
+    padding: 0.75rem;
   }
 
 
