@@ -72,10 +72,9 @@ p {
   padding-right: 5rem;
 }
 
-
 footer {
     position:relative;
-    border-bottom: 1.5%;
+    bottom: 1.5%;
     color: azure;
 }
 

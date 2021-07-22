@@ -5,14 +5,25 @@ html {
   background-color: black;
 }
 
+.box {
+  position: fixed;
+  width:100%;
+  height: 2.25rem;
+  top: 0;
+  background-color: black;
+
+}
+
 body {
   background-image: linear-gradient(#06224d80, #e4aae480);
 }
 
 h1 {
   font-family: 'M PLUS Rounded 1c', "arial", sans-serif;
+  padding: 3rem;
   text-align: center;
   font-size: 2rem;
+  background-image: linear-gradient(black, #06224d80);
   color: rgb(147, 145, 250);
 }
 
@@ -32,18 +43,16 @@ p {
 
 footer {
   position:relative;
-  border-bottom: 1.5%;
+  bottom: 1.5%;
   color: azure;
 }
 
 a {
   color: rgb(227, 247, 174);
+  padding: 1.25rem;
 }
 
-  .box {
-    display: flex;
-    justify-content: space-between;
-  }
+
 
   .container {
     margin-top: 5%;

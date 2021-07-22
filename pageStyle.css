@@ -5,16 +5,22 @@ html {
   background-color: black;
 }
 
+body {
+  background-image: linear-gradient(#06224d80, #e4aae480);
+}
+
+
 h1 { 
   font-family: "Helvetica", sans-serif;
   text-align: center;
   font-size: 2rem;
+  background-image: linear-gradient(black, #06224d80);
   color: #5ed9dd;
 }
 
 footer {
   position:relative;
-  border-bottom: 1.5%;
+  bottom: 1.5%;
   color: azure;
 }
 
@@ -23,9 +29,6 @@ p {
   color: azure;
 }
 
-nav ul {
-  background-image: linear-gradient(#06224d80, #e4aae480);
-}
 
 a {
   color: azure;
