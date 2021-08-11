@@ -8,6 +8,7 @@ html {
 /* Nav Section */
 
 .dropbtn {
+  display: inline-block;
   font-size: 1.25rem;
   background-color: black;
   color: rgb(227, 247, 174);
