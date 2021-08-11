@@ -8,6 +8,7 @@ html {
 /* Nav Section */
 .navbar {
   display: inline-block;
+  border: 5rem;
 }
 
 .dropbtn {
