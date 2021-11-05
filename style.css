@@ -2,7 +2,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   font-size: 16px;
-  background-color: black;
+  background-color:rgb(23,42, 136);
 }
 
 /* Nav Section */
@@ -13,8 +13,7 @@ html {
 
 .dropbtn {
   font-size: 1.25rem;
-  background-color: black;
-  color: rgb(227, 247, 174);
+  color: black;
   border: none;
 }
 
@@ -27,13 +26,13 @@ html {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: black;
+  background-color: rgb(234,241, 250);
   width: 200%;
 }
 
 .dropdown-content a {
     display: inline-block;
-    color: rgb(227, 247, 174);
+    color: black;
     padding: 0.75rem;
   }
 
@@ -43,7 +42,7 @@ html {
   
 
 body {
-  background-image: linear-gradient(#06224d80, #e4aae480);
+  background-color: rgb(234,241, 250);
 }
 
 h1 {
@@ -51,14 +50,13 @@ h1 {
   padding: 2rem;
   text-align: center;
   font-size: 2rem;
-  background-image: linear-gradient(black, #06224d80);
-  color: rgb(147, 145, 250);
+  color: rgb(113, 138, 51);
 }
 
 h3 {
   font-family: "Helvetica", sans-serif;
   font-size: 1.75em;
-  color: hsl(339, 91%, 87%);
+  color: black;
 }
 
 
@@ -66,20 +64,20 @@ p {
   font-family: "arial", monospace;
   font-style: italic;
   font-size: 1rem;
-  color: azure;
+  color: black;
 }
 
 footer {
   position:relative;
   bottom: 1.5%;
-  color: azure;
+  color: black;
 }
 
   .container {
     margin-top: 5%;
     margin-bottom:5%;
     width: 75%;
-    border: 2px solid hsl(177, 72%, 63%);
+    border: 2px solid rgb(23,42, 136);
     border-radius: 20px;
   }
 

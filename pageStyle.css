@@ -2,11 +2,11 @@ html {
   -webkit-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   font-size: 16px;
-  background-color: black;
+  background-color: rgb(193,213,127);
 }
 
 body {
-  background-image: linear-gradient(#06224d80, #e4aae480);
+  background-color: rgb(236, 248, 255);
 }
 
 
@@ -14,24 +14,28 @@ h1 {
   font-family: "Helvetica", sans-serif;
   text-align: center;
   font-size: 2rem;
-  background-image: linear-gradient(black, #06224d80);
-  color: #5ed9dd;
+  background-color: rgb(239,248,254);
+  color: rgb(131,149,66);
+}
+
+h2 {
+  color: rgb(116,132,191);
 }
 
 footer {
   position:relative;
   bottom: 1.5%;
-  color: azure;
+  color: black;
 }
 
 p {
   font-family: "arial", monospace;
-  color: azure;
+  color: rgb(131,149,66);
 }
 
 
 a {
-  color: azure;
+  color: black;
 }
 
   li {
