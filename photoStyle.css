@@ -17,7 +17,6 @@ body {
 /* Journal */
 .journal {
 	display: flex;
-	flex-direction: row;
 	justify-content: space-around;
 	padding-bottom: 4rem;
 	background-color: rgb(254, 231, 218);
@@ -85,4 +84,9 @@ footer {
 	  flex-direction: column;
 	  padding: 0 10% 2rem 10%;
 	}
+	.journal {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-around;
+	  }
   }
