@@ -7,14 +7,16 @@ html {
 
 /* Nav Section */
 .navbar {
-  display: inline-block;
-  border: 5rem;
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
 }
 
 .dropbtn {
   font-size: 1.25rem;
   color: black;
   border: none;
+  padding-right: 3rem;
 }
 
 .dropdown {
@@ -55,7 +57,7 @@ h1 {
 
 h3 {
   font-family: "Helvetica", sans-serif;
-  font-size: 1.75em;
+  font-size: 1.5em;
   color: black;
 }
 
@@ -87,3 +89,4 @@ footer {
       display: block;
     }
 
+ 
