@@ -5,7 +5,7 @@ html {
   background-color:rgb(23,42, 136);
 }
 
-/* Nav Section */
+
 .navbar {
   display: flex;
   align-items: center;
@@ -79,7 +79,8 @@ footer {
     font-size: 2.5rem;
     margin-top: 5%;
     margin-bottom:5%;
-    width: 60%;
+    margin-left: 25%;
+    width: 50%;
     border: 2px solid rgb(23,42, 136);
     border-radius: 20px;
   }
